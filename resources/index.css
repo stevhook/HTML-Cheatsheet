@@ -6,6 +6,7 @@
 #24305E
 */
 
+/* Nav styling */
 div.nav {
     background-color: #24305E;
     position: fixed;
@@ -13,9 +14,9 @@ div.nav {
     right: 0px;
     left: 0px;
     width: 100%;
-
 }
 
 div.nav>h2 {
     color: #F8E9A1;
+    font-size: 30px;
 }
